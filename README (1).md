@@ -26,4 +26,4 @@ Apache Tomcat 의 경우 9.0.64 버전을 archive 로부터 준비했다.
 * tomcat 이란 servlet interface 의 구현체이며 servlet container 중 하나
 * servlet container 는 servlet 의 life-cycle 을 관리
 
-자연스럽게 servlet 이 무엇인가 궁금했다. 내일 아침에 찾아봐야지.
+자연스럽게 servlet 이 무엇인가 궁금해졌다. 내일 아침에 찾아봐야지.
